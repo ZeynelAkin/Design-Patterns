@@ -1,0 +1,4 @@
+com/zeynel/designpatterns/singleton/Singleton.java
+ com.zeynel.designpatterns.singleton.Singleton
+com/zeynel/designpatterns/singleton/App.java
+ com.zeynel.designpatterns.singleton.App
